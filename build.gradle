@@ -8,7 +8,7 @@ plugins {
 apply plugin: 'kotlin-jpa'
 apply plugin: 'io.spring.dependency-management'
 
-group = 'com.awesome.'
+group = 'com.awesome'
 version = '0.0.1-SNAPSHOT'
 sourceCompatibility = '1.8'
 
